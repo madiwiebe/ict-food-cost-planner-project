@@ -1,0 +1,150 @@
+Unnamed: 0,date,location,price,product,unit_quantity,unit,category,month_year
+4948,2023-08-01,Quebec,11.99,Beef stewing cuts,1.0,kilogram,Protein,2023-08
+1006,2023-08-01,Newfoundland and Labrador,41.8,Beef striploin cuts,1.0,kilogram,Protein,2023-08
+1987,2023-08-01,Prince Edward Island,42.85,Beef striploin cuts,1.0,kilogram,Protein,2023-08
+4956,2023-07-01,Quebec,41.05,Beef striploin cuts,1.0,kilogram,Protein,2023-07
+4964,2023-06-01,Quebec,32.82,Beef top sirloin cuts,1.0,kilogram,Protein,2023-06
+4975,2023-08-01,Quebec,41.26,Beef rib cuts,1.0,kilogram,Protein,2023-08
+4997,2023-03-01,Quebec,11.89,Pork rib cuts,1.0,kilogram,Protein,2023-03
+5003,2023-09-01,Quebec,12.29,Pork rib cuts,1.0,kilogram,Protein,2023-09
+5004,2023-01-01,Quebec,3.1,Pork shoulder cuts,1.0,kilogram,Protein,2023-01
+7020,2023-01-01,Manitoba,8.56,Chicken drumsticks,1.0,kilogram,Protein,2023-01
+7021,2023-02-01,Manitoba,8.66,Chicken drumsticks,1.0,kilogram,Protein,2023-02
+8011,2023-02-01,Saskatchewan,8.39,Chicken drumsticks,1.0,kilogram,Protein,2023-02
+9000,2023-01-01,Alberta,8.95,Chicken drumsticks,1.0,kilogram,Protein,2023-01
+9001,2023-02-01,Alberta,8.9,Chicken drumsticks,1.0,kilogram,Protein,2023-02
+9008,2023-09-01,Alberta,8.42,Chicken drumsticks,1.0,kilogram,Protein,2023-09
+9990,2023-01-01,British Columbia,9.03,Chicken drumsticks,1.0,kilogram,Protein,2023-01
+9998,2023-09-01,British Columbia,8.47,Chicken drumsticks,1.0,kilogram,Protein,2023-09
+5057,2023-09-01,Quebec,8.08,Bacon,500.0,grams,Protein,2023-09
+5058,2023-01-01,Quebec,3.07,Wieners,400.0,grams,Protein,2023-01
+5063,2023-06-01,Quebec,3.12,Wieners,400.0,grams,Protein,2023-06
+7054,2023-08-01,Manitoba,19.0,Salmon,1.0,kilogram,Protein,2023-08
+8044,2023-08-01,Saskatchewan,17.8,Salmon,1.0,kilogram,Protein,2023-08
+2113,2023-08-01,Prince Edward Island,8.47,Shrimp,300.0,grams,Protein,2023-08
+5079,2023-04-01,Quebec,8.46,Shrimp,300.0,grams,Protein,2023-04
+5202,2023-01-01,Quebec,3.52,Eggs,1.0,dozen,Protein,2023-01
+5206,2023-05-01,Quebec,3.5,Eggs,1.0,dozen,Protein,2023-05
+1773,2023-01-01,Newfoundland and Labrador,5.61,Mayonnaise,890.0,millilitres,Condiments,2023-01
+5742,2023-01-01,Quebec,1.31,Canned baked beans,398.0,millilitres,Condiments,2023-01
+5748,2023-07-01,Quebec,1.33,Canned baked beans,398.0,millilitres,Condiments,2023-07
+8768,2023-03-01,Saskatchewan,2.27,Canned pear,398.0,millilitres,Condiments,2023-03
+5807,2023-03-01,Quebec,4.25,Dried lentils,900.0,grams,Condiments,2023-03
+5808,2023-04-01,Quebec,4.32,Dried lentils,900.0,grams,Condiments,2023-04
+5809,2023-05-01,Quebec,4.21,Dried lentils,900.0,grams,Condiments,2023-05
+5812,2023-08-01,Quebec,4.18,Dried lentils,900.0,grams,Condiments,2023-08
+1857,2023-04-01,Newfoundland and Labrador,3.35,Dry beans and legumes,900.0,grams,Condiments,2023-04
+2845,2023-02-01,Prince Edward Island,3.86,Dry beans and legumes,900.0,grams,Condiments,2023-02
+2846,2023-03-01,Prince Edward Island,3.81,Dry beans and legumes,900.0,grams,Condiments,2023-03
+3835,2023-02-01,Nova Scotia,3.82,Dry beans and legumes,900.0,grams,Condiments,2023-02
+4825,2023-02-01,New Brunswick,3.84,Dry beans and legumes,900.0,grams,Condiments,2023-02
+4826,2023-03-01,New Brunswick,3.88,Dry beans and legumes,900.0,grams,Condiments,2023-03
+9784,2023-02-01,Alberta,3.16,Tofu,350.0,grams,Condiments,2023-02
+10774,2023-02-01,British Columbia,3.14,Tofu,350.0,grams,Condiments,2023-02
+1872,2023-01-01,Newfoundland and Labrador,3.52,Hummus,227.0,grams,Condiments,2023-01
+5832,2023-01-01,Quebec,4.2,Hummus,227.0,grams,Condiments,2023-01
+7812,2023-01-01,Manitoba,3.34,Hummus,227.0,grams,Condiments,2023-01
+8802,2023-01-01,Saskatchewan,3.53,Hummus,227.0,grams,Condiments,2023-01
+8079,2023-07-01,Saskatchewan,4.81,Meatless burgers,226.0,grams,Plant_based,2023-07
+5642,2023-09-01,Quebec,4.57,Apple juice,2.0,litres,Beverages,2023-09
+6624,2023-01-01,Ontario,2.96,Apple juice,2.0,litres,Beverages,2023-01
+6625,2023-02-01,Ontario,3.02,Apple juice,2.0,litres,Beverages,2023-02
+1197,2023-01-01,Newfoundland and Labrador,5.67,Cream,1.0,litre,Dairy,2023-01
+1198,2023-02-01,Newfoundland and Labrador,5.72,Cream,1.0,litre,Dairy,2023-02
+1199,2023-03-01,Newfoundland and Labrador,5.82,Cream,1.0,litre,Dairy,2023-03
+1200,2023-04-01,Newfoundland and Labrador,5.56,Cream,1.0,litre,Dairy,2023-04
+1201,2023-05-01,Newfoundland and Labrador,5.81,Cream,1.0,litre,Dairy,2023-05
+1202,2023-06-01,Newfoundland and Labrador,6.11,Cream,1.0,litre,Dairy,2023-06
+1203,2023-07-01,Newfoundland and Labrador,6.03,Cream,1.0,litre,Dairy,2023-07
+1204,2023-08-01,Newfoundland and Labrador,5.79,Cream,1.0,litre,Dairy,2023-08
+1205,2023-09-01,Newfoundland and Labrador,6.0,Cream,1.0,litre,Dairy,2023-09
+5186,2023-03-01,Quebec,6.17,Block cheese,500.0,grams,Dairy,2023-03
+5724,2023-01-01,Quebec,5.12,Peanut butter,1.0,kilogram,Dairy,2023-01
+7704,2023-01-01,Manitoba,5.13,Peanut butter,1.0,kilogram,Dairy,2023-01
+8694,2023-01-01,Saskatchewan,5.23,Peanut butter,1.0,kilogram,Dairy,2023-01
+9684,2023-01-01,Alberta,5.28,Peanut butter,1.0,kilogram,Dairy,2023-01
+278,2023-09-01,Canada,4.5,Apples,1.0,kilogram,Veg_Fruits,2023-09
+1258,2023-08-01,Newfoundland and Labrador,7.48,Apples,1.0,kilogram,Veg_Fruits,2023-08
+5219,2023-09-01,Quebec,4.59,Apples,1.0,kilogram,Veg_Fruits,2023-09
+6209,2023-09-01,Ontario,4.27,Apples,1.0,kilogram,Veg_Fruits,2023-09
+7199,2023-09-01,Manitoba,4.23,Apples,1.0,kilogram,Veg_Fruits,2023-09
+8189,2023-09-01,Saskatchewan,4.37,Apples,1.0,kilogram,Veg_Fruits,2023-09
+9179,2023-09-01,Alberta,4.62,Apples,1.0,kilogram,Veg_Fruits,2023-09
+10169,2023-09-01,British Columbia,4.65,Apples,1.0,kilogram,Veg_Fruits,2023-09
+7235,2023-09-01,Manitoba,3.84,Pears,1.0,kilogram,Veg_Fruits,2023-09
+8225,2023-09-01,Saskatchewan,4.05,Pears,1.0,kilogram,Veg_Fruits,2023-09
+9215,2023-09-01,Alberta,4.25,Pears,1.0,kilogram,Veg_Fruits,2023-09
+1303,2023-08-01,Newfoundland and Labrador,1.31,Lemons,1.0,each,Veg_Fruits,2023-08
+1309,2023-05-01,Newfoundland and Labrador,1.46,Limes,1.0,each,Veg_Fruits,2023-05
+1310,2023-06-01,Newfoundland and Labrador,1.49,Limes,1.0,each,Veg_Fruits,2023-06
+7291,2023-02-01,Manitoba,7.3,Potatoes,4.54,kilograms,Veg_Fruits,2023-02
+7293,2023-04-01,Manitoba,7.43,Potatoes,4.54,kilograms,Veg_Fruits,2023-04
+7294,2023-05-01,Manitoba,7.59,Potatoes,4.54,kilograms,Veg_Fruits,2023-05
+7295,2023-06-01,Manitoba,7.63,Potatoes,4.54,kilograms,Veg_Fruits,2023-06
+7296,2023-07-01,Manitoba,7.65,Potatoes,4.54,kilograms,Veg_Fruits,2023-07
+7297,2023-08-01,Manitoba,7.99,Potatoes,4.54,kilograms,Veg_Fruits,2023-08
+8281,2023-02-01,Saskatchewan,7.24,Potatoes,4.54,kilograms,Veg_Fruits,2023-02
+8283,2023-04-01,Saskatchewan,7.49,Potatoes,4.54,kilograms,Veg_Fruits,2023-04
+8284,2023-05-01,Saskatchewan,7.67,Potatoes,4.54,kilograms,Veg_Fruits,2023-05
+8285,2023-06-01,Saskatchewan,7.5,Potatoes,4.54,kilograms,Veg_Fruits,2023-06
+8286,2023-07-01,Saskatchewan,7.75,Potatoes,4.54,kilograms,Veg_Fruits,2023-07
+8287,2023-08-01,Saskatchewan,8.01,Potatoes,4.54,kilograms,Veg_Fruits,2023-08
+8288,2023-09-01,Saskatchewan,7.27,Potatoes,4.54,kilograms,Veg_Fruits,2023-09
+9271,2023-02-01,Alberta,7.31,Potatoes,4.54,kilograms,Veg_Fruits,2023-02
+9273,2023-04-01,Alberta,7.25,Potatoes,4.54,kilograms,Veg_Fruits,2023-04
+9274,2023-05-01,Alberta,7.64,Potatoes,4.54,kilograms,Veg_Fruits,2023-05
+9275,2023-06-01,Alberta,7.62,Potatoes,4.54,kilograms,Veg_Fruits,2023-06
+9276,2023-07-01,Alberta,7.74,Potatoes,4.54,kilograms,Veg_Fruits,2023-07
+9277,2023-08-01,Alberta,7.87,Potatoes,4.54,kilograms,Veg_Fruits,2023-08
+9278,2023-09-01,Alberta,7.16,Potatoes,4.54,kilograms,Veg_Fruits,2023-09
+10261,2023-02-01,British Columbia,7.3,Potatoes,4.54,kilograms,Veg_Fruits,2023-02
+10262,2023-03-01,British Columbia,7.18,Potatoes,4.54,kilograms,Veg_Fruits,2023-03
+10263,2023-04-01,British Columbia,7.23,Potatoes,4.54,kilograms,Veg_Fruits,2023-04
+10264,2023-05-01,British Columbia,7.58,Potatoes,4.54,kilograms,Veg_Fruits,2023-05
+10265,2023-06-01,British Columbia,7.34,Potatoes,4.54,kilograms,Veg_Fruits,2023-06
+10266,2023-07-01,British Columbia,7.77,Potatoes,4.54,kilograms,Veg_Fruits,2023-07
+10267,2023-08-01,British Columbia,7.9,Potatoes,4.54,kilograms,Veg_Fruits,2023-08
+10268,2023-09-01,British Columbia,7.33,Potatoes,4.54,kilograms,Veg_Fruits,2023-09
+5354,2023-09-01,Quebec,1.93,Cabbage,1.0,kilogram,Veg_Fruits,2023-09
+5390,2023-09-01,Quebec,1.98,Celery,1.0,each,Veg_Fruits,2023-09
+5400,2023-01-01,Quebec,1.84,Mushrooms,227.0,grams,Veg_Fruits,2023-01
+5402,2023-03-01,Quebec,1.64,Mushrooms,227.0,grams,Veg_Fruits,2023-03
+5403,2023-04-01,Quebec,2.07,Mushrooms,227.0,grams,Veg_Fruits,2023-04
+5404,2023-05-01,Quebec,1.83,Mushrooms,227.0,grams,Veg_Fruits,2023-05
+5407,2023-08-01,Quebec,2.06,Mushrooms,227.0,grams,Veg_Fruits,2023-08
+5408,2023-09-01,Quebec,1.65,Mushrooms,227.0,grams,Veg_Fruits,2023-09
+1449,2023-01-01,Newfoundland and Labrador,4.72,Iceberg lettuce,1.0,each,Veg_Fruits,2023-01
+5415,2023-07-01,Quebec,1.89,Iceberg lettuce,1.0,each,Veg_Fruits,2023-07
+502,2023-08-01,Canada,6.08,Peppers,1.0,kilogram,Veg_Fruits,2023-08
+503,2023-09-01,Canada,5.89,Peppers,1.0,kilogram,Veg_Fruits,2023-09
+5443,2023-08-01,Quebec,5.29,Peppers,1.0,kilogram,Veg_Fruits,2023-08
+5444,2023-09-01,Quebec,5.46,Peppers,1.0,kilogram,Veg_Fruits,2023-09
+6433,2023-08-01,Ontario,5.63,Peppers,1.0,kilogram,Veg_Fruits,2023-08
+6434,2023-09-01,Ontario,5.12,Peppers,1.0,kilogram,Veg_Fruits,2023-09
+5459,2023-06-01,Quebec,3.88,Salad greens,142.0,grams,Veg_Fruits,2023-06
+5460,2023-07-01,Quebec,3.63,Salad greens,142.0,grams,Veg_Fruits,2023-07
+5461,2023-08-01,Quebec,3.89,Salad greens,142.0,grams,Veg_Fruits,2023-08
+1377,2023-01-01,Newfoundland and Labrador,8.42,Tomatoes,1.0,kilogram,Others,2023-01
+5524,2023-08-01,Quebec,5.53,Frozen pizza,390.0,grams,Frozen,2023-08
+5547,2023-04-01,Quebec,4.33,White bread,675.0,grams,Grains,2023-04
+5549,2023-06-01,Quebec,4.4,White bread,675.0,grams,Grains,2023-06
+5550,2023-07-01,Quebec,4.37,White bread,675.0,grams,Grains,2023-07
+6534,2023-01-01,Ontario,3.07,White bread,675.0,grams,Grains,2023-01
+6535,2023-02-01,Ontario,3.02,White bread,675.0,grams,Grains,2023-02
+6539,2023-06-01,Ontario,3.09,White bread,675.0,grams,Grains,2023-06
+6540,2023-07-01,Ontario,3.09,White bread,675.0,grams,Grains,2023-07
+6541,2023-08-01,Ontario,3.05,White bread,675.0,grams,Grains,2023-08
+6542,2023-09-01,Ontario,3.01,White bread,675.0,grams,Grains,2023-09
+5585,2023-06-01,Quebec,2.93,Dry or fresh pasta,500.0,grams,Grains,2023-06
+1661,2023-06-01,Newfoundland and Labrador,4.8,Wheat flour,2.5,kilograms,Grains,2023-06
+9576,2023-01-01,Alberta,6.45,Wheat flour,2.5,kilograms,Grains,2023-01
+1893,2023-04-01,Newfoundland and Labrador,2.32,Pasta sauce,650.0,millilitres,Grains,2023-04
+1898,2023-09-01,Newfoundland and Labrador,2.38,Pasta sauce,650.0,millilitres,Grains,2023-09
+3873,2023-04-01,Nova Scotia,2.4,Pasta sauce,650.0,millilitres,Grains,2023-04
+3878,2023-09-01,Nova Scotia,2.39,Pasta sauce,650.0,millilitres,Grains,2023-09
+5853,2023-04-01,Quebec,3.7,Pasta sauce,650.0,millilitres,Grains,2023-04
+5854,2023-05-01,Quebec,4.04,Pasta sauce,650.0,millilitres,Grains,2023-05
+5855,2023-06-01,Quebec,4.07,Pasta sauce,650.0,millilitres,Grains,2023-06
+5856,2023-07-01,Quebec,3.72,Pasta sauce,650.0,millilitres,Grains,2023-07
+5858,2023-09-01,Quebec,3.73,Pasta sauce,650.0,millilitres,Grains,2023-09
+7838,2023-09-01,Manitoba,2.35,Pasta sauce,650.0,millilitres,Grains,2023-09
