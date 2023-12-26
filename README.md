@@ -2,7 +2,6 @@
 Food cost estimating tool for food trucks and small food businesses
                                 ![Alt text](<food image3.png>)
 ------------------------------------------------------------------------------------------------------------------
-
 By:
 ## Hajar Kaddouri
 ## Niki Yaw
