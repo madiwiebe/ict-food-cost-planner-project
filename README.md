@@ -1,6 +1,6 @@
 ## #Food Track Canada Project  🍁📈
 Food cost estimating tool for food trucks and small food businesses
-![Alt text](<food image.webp>)
+![Alt text](<food image2.png>)
 ------------------------------------------------------------------------------------------------------------------
 
 By:
