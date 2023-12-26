@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-###### Food Track Canada Project  🍁📈
-=======
-                     ###Food Track Canada Project  🍁📈
->>>>>>> 52b77cc529bbf94a5668c44f2c2df153012b2edf
-Food cost estimating tool for food trucks and small food businesses.
+## #Food Track Canada Project  🍁📈
+Food cost estimating tool for food trucks and small food businesses
+
+
 
 By:
 ## Hajar Kaddouri
@@ -13,7 +11,7 @@ By:
 
 ## #HK-Version1:
 
-##Project Overview 📋
+## #Project Overview 📋
 The Food Track Canada project is an in-depth analysis and prediction task focused on retail food prices. We've harnessed data from various sources, performed exploratory data analysis, and built a predictive model to forecast food prices.
 
 ## #Data Extraction 🛠️
