@@ -3,7 +3,7 @@ Food cost estimating tool for food trucks and small food businesses.
 
 By:
 ## Hajar Kaddouri
-## iki Yaw
+## Niki Yaw
 ## Tetiana Fesenko
 ## Madison Wiebe
 
