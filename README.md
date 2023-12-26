@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ###### Food Track Canada Project  🍁📈
+=======
+                     ###Food Track Canada Project  🍁📈
+>>>>>>> 52b77cc529bbf94a5668c44f2c2df153012b2edf
 Food cost estimating tool for food trucks and small food businesses.
 
 By:
