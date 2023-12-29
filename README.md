@@ -1,6 +1,6 @@
-## #Food Track Canada Project  🍁📈
+## #Food Truck Canada Project  🍁📈
 Food cost estimating tool for food trucks and small food businesses
-                                ![Alt text](<food image3.png>)
+                                ![Alt text](<images/food image.png>)
 ------------------------------------------------------------------------------------------------------------------
 By:
 ## Hajar Kaddouri
@@ -14,7 +14,7 @@ By:
 ## #HK-Version1:
 
 ## #Project Overview 📋
-The Food Track Canada project is an in-depth analysis and prediction task focused on retail food prices. We've harnessed data from various sources, performed exploratory data analysis, and built a predictive model to forecast food prices.
+The Food Truck Canada project is an in-depth analysis and prediction task focused on retail food prices. We've harnessed data from various sources, performed exploratory data analysis, and built a predictive model to forecast food prices.
 
 ## #Data Extraction 🛠️
 We began by extracting red meat data from the Agri Canada website. This initial step provided us with a robust dataset that set the stage for our subsequent analyses.
@@ -39,12 +39,12 @@ MAE: 0.2171
 R-squared: 0.9712
 These metrics indicate a high level of accuracy and reliability in our model's predictions.
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 ## #Predictions for 2023 🚀🔮
 Predictions for the year 2023 were made and stored in a DataFrame. We visualized these predictions to compare them with historical prices, as shown in this images.
 
- ![Alt text](image-1.png)
+ ![Alt text](images/image-1.png)
  
 
 ## #Interactive Dashboard 🖥️🤹
