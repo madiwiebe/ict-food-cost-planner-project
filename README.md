@@ -1,6 +1,6 @@
 ## #Food Truck Canada Project  🍁📈
 Food cost estimating tool for food trucks and small food businesses
-                                ![Alt text](<images/food image.png>)
+![Alt text](images/food image.png)
 ------------------------------------------------------------------------------------------------------------------
 By:
 ## Hajar Kaddouri
